@@ -119,8 +119,8 @@ a color or the eraser.
 
 
 
-```
-<img width="960" height="540" alt="Screenshot 2026-07-05 231645" src="https://github.com/user-attachments/assets/e565d73c-8ee4-44b1-a82f-e7b7b156ba8e" />
+<img width="960" height="540" alt="Screenshot 2026-07-05 231645" src="https://github.com/user-attachments/assets/5d129e3e-662c-4db5-a7ee-fe99ba3c5c50" />
+
 
 ```
 

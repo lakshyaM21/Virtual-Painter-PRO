@@ -117,11 +117,11 @@ a color or the eraser.
 
 ## Screenshots
 
-_Add screenshots or a demo GIF of the application here once available._
+
 
 ```
-Output/
-└── painting_20260101_120000.png
+<img width="960" height="540" alt="Screenshot 2026-07-05 231645" src="https://github.com/user-attachments/assets/e565d73c-8ee4-44b1-a82f-e7b7b156ba8e" />
+
 ```
 
 ---

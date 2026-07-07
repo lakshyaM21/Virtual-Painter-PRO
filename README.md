@@ -3,7 +3,7 @@
 A real-time, hand-gesture-controlled virtual painting application built with
 **Python 3.13**, **OpenCV**, and the latest **MediaPipe Tasks API**
 (`HandLandmarker` with `hand_landmarker.task`). Paint on your webcam feed
-using nothing but your hand — no mouse, no stylus.
+using nothing but your hand — no mouse, no stylus
 
 > This project uses only the modern MediaPipe Tasks API. The deprecated
 > `mp.solutions.hands` module is **not** used anywhere in this codebase.
@@ -88,7 +88,7 @@ Virtual-Painter-Pro/
 
 ---
 
-## Installation
+## Installation:-
 
 1. Clone or download this project.
 2. Ensure `Header/1.jpg` – `Header/4.jpg` and `models/hand_landmarker.task`

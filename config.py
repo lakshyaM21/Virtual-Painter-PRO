@@ -1,7 +1,7 @@
 """
 config.py
 
-Centralized configuration for Virtual Painter Pro.
+Centralized configuration for Virtual Painter Pro
 All constants, paths, thresholds and tunable parameters live here so that
 the rest of the codebase never hardcodes "magic numbers".
 """
